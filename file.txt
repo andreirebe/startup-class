@@ -1,6 +1,4 @@
 line1
 line2
 line3
-Am mai adaugat o linie :D
-ultima linie
-am facut o schimbare
+asta este brank-ul calc-divide
